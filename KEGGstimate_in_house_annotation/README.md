@@ -28,6 +28,3 @@ The python scripts that run the KEGG module completion calculation and BRITE gen
 
 ## Results_consolidation
 A python script for merging multiple outputs when running the KEGGstimate scripts on multiple fasta files.
-
-## Slurm_scripts
-Contains the ready-made .sh scripts used for slurm job submission on OIST Deigo. By writing the paths of your input into these scripts, you can directly run the pipeline on Deigo.
