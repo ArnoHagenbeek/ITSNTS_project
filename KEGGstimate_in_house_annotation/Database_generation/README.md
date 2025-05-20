@@ -1,6 +1,6 @@
 # Python scripts, used to generate the KEGG databases used by KEGGstand
 ## Info
-The KEGGstand scripts compare the EggNOG-generated K terms against KEGG resources. To obtain these, KEGG API downloads are performed using
+The KEGGstimate scripts compare the EggNOG-generated K terms against KEGG resources. To obtain these, KEGG API downloads are performed using
 the biopython KEGG REST package. The two scripts here generate the KEGG module definition and the KEGG gene entry databases used by the 
 KEGGstand scripts. Running these scripts allows for updating existing databases to the current version of KEGG, or to generate new databases. 
 
