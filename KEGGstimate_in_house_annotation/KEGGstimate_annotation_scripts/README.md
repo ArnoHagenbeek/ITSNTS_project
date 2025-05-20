@@ -12,7 +12,7 @@ https://github.com/ECBSU/genomics-scripts/tree/main/Functional-annotation/KEGG_p
 
 The script is run with the following command:
 ```
-(python) KEGGstand_module_checker.py input.emapper.annotations output_prefix KEGG_module_database
+(python) KEGGstimate_module_checker.py input.emapper.annotations output_prefix KEGG_module_database
 ```
 ### Output
 Writes 2 tab-delimited text files: 
@@ -45,7 +45,7 @@ https://github.com/ECBSU/genomics-scripts/tree/main/Functional-annotation/KEGG_p
 
 The script is run with the following command:
 ```
-(python) KEGGstand_BRITE_checker.py input.emapper.annotations output_file KEGG_k_term_database
+(python) KEGGstimate_BRITE_checker.py input.emapper.annotations output_file KEGG_k_term_database
 ```
 ### Output
 Writes a single tab-delimited text file with a specified name in the following format:
